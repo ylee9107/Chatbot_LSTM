@@ -14,3 +14,15 @@ This project aims to cover the process on how to build a chatbot. Generally, a c
 The dataset that will be used as the training data would be derived from real conversations with Cleverbot. The data from the main website cannot be found, but it can be found amongst other GitHub users such as these:
 - https://github.com/neyerdav/chatbot
 - https://github.com/GinGin3203/python_chatbot
+
+## Required Libraries:
+
+1. Pandas
+2. Numpy
+3. OS
+4. Re - regular expressions
+5. IPyhon (Jupyter notebook image display)
+6. Keras
+7. PlaidML (for AMD GPU only)
+8. Time
+9. Tensorflow
