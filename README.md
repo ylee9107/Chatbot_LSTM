@@ -26,3 +26,7 @@ The dataset that will be used as the training data would be derived from real co
 7. PlaidML (for AMD GPU only)
 8. Time
 9. Tensorflow
+
+## Summary:
+
+I have learnt a lot from this chatbot building project. I was able to discover more from the history of chatbots ranging from ELIZA to MITSUKU and learnt how this landscape of chatbots have improved over time. I learnt new ways to treat and preprocess the text data such as limiting the number input text characters to speed up the training process,  creating stop tokens for the model, segmenting the text data into unique characters, or making sure that the input data dimensions are correct. More importantly, I was able to further develop my understanding of the LSTM model specifically the sequence-to-sequence model. 
